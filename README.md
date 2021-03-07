@@ -1,5 +1,5 @@
 # Kaggle-Tweet-Sentiment-Extraction
-This repository includes my code for [Tweet Sentiment Extraction](https://www.kaggle.com/c/tweet-sentiment-extraction/overview) competition in Kaggle.  
+This repository includes my code for the [Tweet Sentiment Extraction](https://www.kaggle.com/c/tweet-sentiment-extraction/overview) competition in Kaggle.  
 
   
   
